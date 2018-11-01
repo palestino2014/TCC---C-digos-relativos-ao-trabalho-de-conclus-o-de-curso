@@ -1,0 +1,130 @@
+body {
+    background-color: #DCDCDC;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
+
+
+.valvula img{ 
+
+width: 25px;    /* largura da imagem */
+
+height: 50px;   /*  altura da imagem  */
+
+margin-top: 3px; /* margem do topo */
+
+
+}
+
+.bomba img{ 
+
+width: 25px;    /* largura da imagem */
+
+height: 50px;   /*  altura da imagem  */
+
+margin-top: 3px; /* margem do topo */
+
+
+}
+
+.volume { 
+
+width: 400px;
+height: 150px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+
+}
+
+.tempumi {
+
+width: 400px;
+height: 100px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+
+}
+
+.pb {
+ 
+width: 400px;
+height: 100px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+}
+
+.vasos{
+width: 400px;
+height: 400px;
+margin: 100px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+}
+
+.atuadores {
+width: 400px;
+height: 100px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+}
+
+.recomendacao {
+width: 400px;
+height: 100px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+}
+
+.tela {
+width: 400px;
+height: 100px;
+margin: 10px;
+-moz-border-radius: 8px; /* Para Firefox */
+-webkit-border-radius: 8px; /*Para Safari e Chrome */
+border-radius: 8px; /* Para Opera 10.5+*/
+background: #f7f7f7;
+padding: 20px;
+border: 1px solid #000;
+color: #000;
+}
+
+
